@@ -1,0 +1,3 @@
+com/dynatrace/aspects/axwayapi/AxwayAspect.class
+com/dynatrace/aspects/axwayapi/App.class
+com/dynatrace/oneagent/utils/OneAgentSDKUtils.class

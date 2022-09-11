@@ -1,0 +1,32 @@
+{
+    
+
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.wordWrap": "on",
+    "python.pythonPath": "/usr/bin/python3",
+    "scm.alwaysShowRepositories": true,
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "security.workspace.trust.untrustedFiles": "open",
+    
+    "redhat.telemetry.enabled": false,
+    "maven.executable.path": "/usr/local/bin/mvn",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "java.format.comments.enabled": false,
+    "gitHistory.sideBySide": true,
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.copyOnSelection": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.toolsManagement.autoUpdate": true,
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+ 
+   
+}
